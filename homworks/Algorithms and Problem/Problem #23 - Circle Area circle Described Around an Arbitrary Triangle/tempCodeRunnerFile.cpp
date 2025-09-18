@@ -1,0 +1,1 @@
+cout << "please entre the length of side c :";
